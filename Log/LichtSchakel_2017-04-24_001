@@ -1,0 +1,9 @@
+2017-04-24T15:52:50.134 Start update
+2017-04-24T15:52:50.288 Zonsondergang om 2017-04-24T20:48:25+02:00[Europe/Berlin]
+2017-04-24T15:52:50.544 Licht uit om 2017-04-24T23:39+02:00[Europe/Berlin]
+2017-04-24T15:52:50.675 Volgende update 2017-04-25T10:00+02:00[Europe/Berlin]
+2017-04-24T15:52:50.797 Start achtergrond
+2017-04-24T15:52:50.924 Status niet OK: 200
+2017-04-24T15:52:50.924 xAktieUitgevoerd: SQL error [SQLITE_ERROR] SQL error or missing database (no such column: Test)
+2017-04-24T15:52:56.062 Status niet OK: 200
+2017-04-24T15:52:56.062 Inschakelen Test!
